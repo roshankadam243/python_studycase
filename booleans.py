@@ -32,5 +32,4 @@ False
 >>> b
 >>> b =
 SyntaxError: incomplete input
->>> set([1,1,2,3])
-{1, 2, 3}
+

@@ -4,12 +4,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 True
 >>> False
 False
->>> tyep(False)
-Traceback (most recent call last):
-  File "<pyshell#2>", line 1, in <module>
-    tyep(False)
-NameError: name 'tyep' is not defined
->>> type(False)
 <class 'bool'>
 >>> false
 Traceback (most recent call last):
